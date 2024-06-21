@@ -1,5 +1,5 @@
 # Erie-Life-Excel-Cleanup-Script
-This is a simple python script to clean up an Erie Life report that our company Assure America recieves from Erie Insurance. We have to import the spreadsheet they send us into a program called Applied Systems. The spreadsheet they send us does not easily import into Applied, so I created a python script to automate the cleanup. 
+This is a simple python script to clean up an Erie Life report that our company Assure America recieves from Erie Insurance. We have to import the spreadsheet they send us into a program called Applied Systems and Applied Systems allows us to easy reconsile all the data. The spreadsheet they send us does not easily import into Applied, so I created a python script to automate the cleanup.
 
 This process use to take us 30 minutes, now it is done within seconds. 
 
